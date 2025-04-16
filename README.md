@@ -84,3 +84,5 @@ new Dokdo(client, { prefix: "<@YOUR_USER_ID>" }); // Set your user mention as a 
 ## Contributing
 
 Before creating an issue or submitting a pull request, check if it already exists. For contributions, refer to the [contribution guide](./.github/CONTRIBUTING.md).
+
+⚠️ **Notice**: This project is based on the original code from [wonderlandpark/dokdo](https://github.com/wonderlandpark/dokdo). I made a few adjustments and improvements to better fit my use case and decided to share it publicly in case it helps others too. Full credit to the original author.
